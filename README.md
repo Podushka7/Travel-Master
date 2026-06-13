@@ -30,7 +30,7 @@
     *   [Спецификация требований](docs/LAB3_REQUIREMENTS.md)
     *   [Бэклог проекта и Учет изменений](docs/LAB3_BACKLOG.md)
 *   **Лабораторная работа №4. Разработка ИС и стандартизация**
-    *   [Code Style Guideline и культура коммитов Git](GUIDELINE.md)
+    *   [Code Style Guideline и культура коммитов Git](docs/GUIDELINE.md)
 *   **Лабораторная работа №5. Обеспечение качества и верификация**
     *   [Протокол ручного тестирования UI и автотесты на Qt Test](docs/LAB5_TESTING.md)
     *   [Журнал зарегистрированных дефектов (Bug Log)](docs/BUG_LOG.md)
